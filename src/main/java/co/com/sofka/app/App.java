@@ -1,2 +1,4 @@
-package co.com.sofka.app;public class App {
+package co.com.sofka.app;
+
+public class App {
 }
