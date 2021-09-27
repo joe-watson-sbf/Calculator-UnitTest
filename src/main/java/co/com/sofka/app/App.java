@@ -33,7 +33,7 @@ public class App {
         System.out.println(number1 + " - " + number2 + " = " + calculator.substract( number1, number2 ) );
 
         System.out.println("\tMultiplication Result");
-        System.out.println(number1 + " * " + number2 + " = " + calculator.mutiply( number1, number2 ) );
+        System.out.println(number1 + " * " + number2 + " = " + calculator.multiply( number1, number2 ) );
 
         System.out.println("\tDivision Result");
         System.out.println(number1 + " + " + number2 + " = " + calculator.divide( number1, number2 ) );
